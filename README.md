@@ -6,6 +6,9 @@ x86 Text-mode Missile Command game
 - Run on QEMU VM
 
 - Running instructions: Running the user-level test program: To run the user-level test program, follow these steps:
+
 • Type cd /workdir/RELEVANT_DIRECTORY
+
 • Type make to compile your code and the test harness.
+
 • Type su -c ./utest to execute the user-level test program as root
